@@ -1,2 +1,2 @@
 # WordSearchPuzzle
-It's a console game in c++
+It's a console game in c++.

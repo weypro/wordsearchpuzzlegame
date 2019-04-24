@@ -1,2 +1,2 @@
-# StuInfoManagerDemo
-It's a demo in c++, which can manage students' information and run in the console mode.
+# WordSearchPuzzle
+It's a console game in c++
